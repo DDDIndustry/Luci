@@ -44,7 +44,7 @@ img {
 
 @media (max-width: 1000px) {
   .vertical {
-    width: 100vw;
+    width: 80vw;
   }
 }
 
