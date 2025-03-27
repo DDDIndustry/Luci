@@ -26,6 +26,10 @@ a {
 	color: black;
 }
 
+img {
+	height: 100%;
+}
+
 
 
 .vertical {
@@ -38,7 +42,7 @@ a {
 	flex-direction: column;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .vertical {
     width: 100vw;
   }
