@@ -89,7 +89,7 @@ a {
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	height: 12vh;
+	height: 9vh;
 	width: 100%;
 	transition: 0.2s;
 	border: black solid;
