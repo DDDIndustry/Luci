@@ -48,7 +48,7 @@ a {
 	margin-right: auto;
 	height: 33vh;
 	width: 33vh;
-	margin-top: 20px;
+	/*margin-top: 20px;*/
 	/*border: solid black;*/
 }
 
@@ -61,7 +61,7 @@ a {
 }
 
 .resaux {
-	margin-top: 10px;
+	/*margin-top: 10px;*/
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -96,7 +96,7 @@ a {
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	height: 12vh;
+	height: 10vh;
 	width: 100%;
 	transition: 0.2s;
 	border: black solid;
